@@ -1,0 +1,11 @@
+	package sec1;
+
+public interface Calculator {
+
+	double pi = 3.1415;
+	int Error = -9999999;
+	int add(int num1, int num2);
+	int subtract(int num1, int num2);
+	int multiply(int num1, int num2);
+	int divide(int num1, int num2);
+}
